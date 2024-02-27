@@ -6,7 +6,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
-        "PyPDF2>=1.26.0",  # Ensure you specify correct version requirements
+        "PyPDF2>=1.26.0",  
     ],
     entry_points={
         "console_scripts": [
