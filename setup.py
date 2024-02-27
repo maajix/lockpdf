@@ -13,8 +13,8 @@ setup(
             "lockpdf=lockpdf.lockpdf:main",  # 'lockpdf' command will call 'main' function in 'lockpdf.py'
         ],
     },
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Max Randhahn",
+    author_email="max@yekta-it.de",
     description="A simple tool to encrypt PDF files",
     keywords="PDF encrypt",
 )
