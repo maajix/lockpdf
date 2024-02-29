@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='lockPDF',
     version='0.1.0',
-    author='Majix',
+    author='Max Randhahn',
     author_email='',
     description='A command-line tool to encrypt PDF files using AES encryption.',
     long_description='This package provides a command-line tool to securely encrypt PDF files with a password, using AES encryption provided by the pikepdf library.',
